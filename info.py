@@ -70,6 +70,6 @@ if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
 #Sample
-SHORTNER_SITE = "seturl.in"
-SHORTNER_API = "MENeVZcapqUmOXw9fyRSQm9Z6pu2"
+SHORTNER_SITE = "shareus.io"
+SHORTNER_API = "ZxAQ8RGw20MgvfGASlXbUgVtykG2"
 
