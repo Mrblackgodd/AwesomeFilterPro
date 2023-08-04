@@ -71,5 +71,5 @@ if AUTO_DELETE == "True":
 
 #Sample
 SHORTNER_SITE = "shareus.io"
-SHORTNER_API = ""
+SHORTNER_API = "MENeVZcapqUmOXw9fyRSQm9Z6pu2"
 
